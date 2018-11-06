@@ -23,3 +23,5 @@ Block Truncation Coding (BTC) is a type of lossy image compression technique for
 # Error-diffused Block trauncation Compression
 
 An algorithm derived by Prof Guo Jing Ming (who is also the professor for the module): Improved block truncation coding using modified error diffusion which combines the algorithm from BTC and error-diffusion method from half-toning in order to achieve high HPSNR.
+
+![Alt text](https://github.com/Chen-XueWen/Image-Processing-Algorithm/blob/master/Comparison.PNG)
