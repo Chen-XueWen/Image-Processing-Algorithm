@@ -1,4 +1,4 @@
-These are all the implementations from a master-level multimedia signal processing during Year 3 fall semester.
+These are all the implementations for a master-level multimedia signal processing during Year 3 fall semester exchange.
 
 # Half-toning
 
